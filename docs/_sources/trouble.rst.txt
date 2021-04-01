@@ -1,0 +1,11 @@
+TROUBLESHOOTING
+================
+
+On the application, there is a very helpful Help function, where it goes into greater detail the 
+meaning of all the symbols, as well as a helpful troubleshooting guide if incase you run into 
+any technical issues.
+The software is very reliable and simple to use however, so the odds of someone having issues with it 
+is very slim
+
+* :doc:`Previous Step </faq>`
+* :doc:`Home </index>`
